@@ -1,1 +1,1 @@
-from ./setup_code import *
+from .setup_code import *
